@@ -14,4 +14,4 @@ app.post('/login', urlencodedParser, (req, res) => {
     res.send({ username: req.body.email, password: req.body.password })
 });
 
-app.listen(3000, () => { console.log('port is running'); })
+module.exports = app;
