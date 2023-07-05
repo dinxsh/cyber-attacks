@@ -1,5 +1,5 @@
 # phishing demo
 
-phishing using instagram demo.
+phishing with instagram demo.
 
-for educational purposes don't do bad things!
+for educational purposes only, don't do bad things!
